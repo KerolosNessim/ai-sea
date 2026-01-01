@@ -40,13 +40,13 @@ const AppSection = () => {
           {/* image */}
           <div className="relative w-1/2 h-full overflow-hidden max-xl:hidden">
             <Image
-              src="/iphone.png"
+              src="/public/iPhone.png"
               alt="app-section"
               fill
               className="w-[400px] absolute object-bottom "
             />
             <Image
-              src="/iphone.png"
+              src="/public/iPhone.png"
               alt="app-section"
               fill
               className="w-[500px] object-bottom absolute translate-x-40 translate-y-40 "
