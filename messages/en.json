@@ -1,0 +1,54 @@
+{
+  "navlinks":{
+    "home":"Home",
+    "solutions":"Solutions",
+    "sea":"Sea",
+    "tech":"Tech Zone",
+    "packages":"Packages",
+    "about":"About Us",
+    "contact":"Contact Us",
+    "lable":{
+      "title":"Guarantee of refund within 14 days",
+      "btn":"Learn More"
+    },
+    "search":{
+      "title":"What are you searching for?",
+      "placeholder":"Search here"
+    }
+  },
+  "hero":{
+    "subtitle": "Welcome...",
+    "title": "  Connect and Target Right \nwith AI By Sea",
+    "description": "With the AI ​​By Sea platform, reaching us is easier.",
+    "search": "How can I help you today...?",
+    "follow": "Follow us!",
+    "reviews": "+10 experts ready to plan weddings instantly!",
+    "rate": "4.9 from over 120 reviews"
+    },
+"team": {
+  "title": "Introduce Yourself  with Ai by Sea!",
+  "subtitle": "Your professional card… the first step toward bigger opportunities 🚀",
+  "description": " Create a professional card that showcases your specialty, experience, and portfolio in seconds..",
+  "btn": "Order Your Card Now",
+  "search": "How can I help you today..?",
+  "profile": "View Portfolio",
+  "more":"Learn more"
+},
+"partner": {
+  "title": "Business Partners!",
+  "subtitle": "Ai by Sea",
+  "description": "We help you grow your business through innovative technology solutions that boost growth and efficiency.."
+},
+"app-section": {
+  "title": "Turn your raw ideas into ready-to-use results with one click!",
+  "subtitle": "Ai by Sea",
+  "description": "Just enter your idea, and you'll instantly get polished, professional-ready content..",
+  "content": {
+  "title": "Ai by Sea / اي بــــي سي!",
+  "subtitle": "From idea to smart execution 🚀",
+  "description1": "A smart solution that turns simple inputs\ninto accurate outputs!",
+  "description2": "A platform that refines what you enter and delivers it as organized, clear work.",
+  "btn": "Become a Client"
+}
+}
+}
