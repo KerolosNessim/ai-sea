@@ -6,6 +6,7 @@ import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
 import { getMessages } from "next-intl/server";
 import Navbar from "@/components/header/navbar";
+import Footer from "@/components/footer";
 
 const ibmPlexSans = IBM_Plex_Sans({
   subsets: ["latin"],
@@ -48,6 +49,7 @@ export default async function LocaleLayout({ children, params }: Props) {
         <NextIntlClientProvider locale={locale} messages={messages}>
           <Navbar/>
           {children}
+          <Footer/>
         </NextIntlClientProvider>
       </body>
     </html>

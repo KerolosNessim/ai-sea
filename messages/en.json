@@ -50,5 +50,80 @@
   "description2": "A platform that refines what you enter and delivers it as organized, clear work.",
   "btn": "Become a Client"
 }
-}
+},
+  "banner":{
+    "subtitle":"Raise the probability of your project's success with solutions that have proven their effectiveness. 🚀",
+    "title":"Are you ready to develop your business with the strongest technical solutions?",
+    "description":"We help you grow your business through innovative technology solutions that boost growth and efficiency, and give you the best opportunity to succeed in a market that changes quickly.",
+    "btn":"Start your business now"
+  },
+  "about":{
+    "title":"About Us !",
+    "subtitle":"Designed for your needs with precision 🎯",
+    "description":"We develop a service that suits your project and adjusts to your goals. ..",
+    "btn":"Be a Client"
+  },
+  "whyus":{
+    "title":"Why Us !",
+    "subtitle":"Designed for your needs with precision 🎯",
+    "description":"We develop a service that suits your project and adjusts to your goals. ..",
+    "btn":"Join Us"
+  },
+    "services":{
+    "title":"Services and Solutions !",
+    "subtitle":"Ready and reliable solutions ⚙️",
+    "description":"We provide smart services to help you launch your project quickly ..",
+    "btn":"Explore Our Services"
+  },
+  "footer": {
+    "discroption":"We help you grow your business through innovative technology solutions that boost growth and efficiency, and give you the best opportunity to succeed in a market that changes quickly.",
+    "payment":"Payment Methods :",
+        "copy":"Copyright © 2025 Ai by Sea. All rights reserved.",
+    "terms":"Terms & Conditions",
+    "privacy":"Privacy Policy",
+  "services": {
+    "title": "Our Services:",
+    "list": [
+      "Hotels & Serviced Apartments",
+      "Worldwide Packages",
+      "Visas",
+      "Transportation & Transfers Booking"
+    ]
+  },
+  "links": {
+    "title": "Quick Links:",
+    "list": [
+      "Add Your Package / Company",
+      "Download the App Now",
+      "Blog"
+    ]
+  },
+  "about": {
+    "title": "About Ai By Sea:",
+    "list": [
+      "Who Are We?",
+      "Why Ai By Sea?",
+      "Learn About SEA+ Offers!"
+    ]
+  },
+  "social": {
+    "title": "Contact Us & Stay Close:",
+    "list": [
+      "info@aibysea.sa",
+      "+90 555 588 80 01",
+      "Follow Us!"
+    ]
+  },
+  "app": {
+    "title": "Download the App Now:",
+    "list": [
+      "Apple Store | Google Play"
+    ]
+  }
+},
+  "reviews":{
+    "subtitle":"Inspiration from real experiences ✨",
+    "title":"Reviews from our customers at Ai by Sea !",
+    "description":"Customer reviews give you a clearer vision and a practical guide .."
+  }
 }

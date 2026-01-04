@@ -8,7 +8,7 @@ import { RiUserLine } from "react-icons/ri";
 const AppSection = () => {
   const t = useTranslations("app-section");
   return (
-    <section>
+    <section className="space-y-10">
       <SectionHeader
         title={t("title")}
         subtitle={t("subtitle")}
@@ -40,13 +40,13 @@ const AppSection = () => {
           {/* image */}
           <div className="relative w-1/2 h-full overflow-hidden max-xl:hidden">
             <Image
-              src="/public/iPhone.png"
+              src="/iPhone.png"
               alt="app-section"
               fill
               className="w-[400px] absolute object-bottom "
             />
             <Image
-              src="/public/iPhone.png"
+              src="/iPhone.png"
               alt="app-section"
               fill
               className="w-[500px] object-bottom absolute translate-x-40 translate-y-40 "
