@@ -44,7 +44,7 @@
   "subtitle": "Ai by Sea",
   "description": "Just enter your idea, and you'll instantly get polished, professional-ready content..",
   "content": {
-  "title": "Ai by Sea / اي بــــي سي!",
+  "title": "Ai by Sea !",
   "subtitle": "From idea to smart execution 🚀",
   "description1": "A smart solution that turns simple inputs\ninto accurate outputs!",
   "description2": "A platform that refines what you enter and delivers it as organized, clear work.",
@@ -124,6 +124,41 @@
   "reviews":{
     "subtitle":"Inspiration from real experiences ✨",
     "title":"Reviews from our customers at Ai by Sea !",
-    "description":"Customer reviews give you a clearer vision and a practical guide .."
+    "description":"Customer reviews give you a clearer vision and a practical guide ..",
+    "btn":"Contact Us",
+    "contentSubTitle":"Our team is ready to respond to you as soon as possible",
+    "contentTitle":"You have a question!",
+    "contentDescription":"Our support team is available from Sunday to Thursday",
+    "contentDescription2":"Starting from 9:00 AM until 5:00 PM",
+    "reviewBody":"Analyze your needs well before requesting any artificial intelligence tool.",
+    "reviewPerson":"Samer Abdullah"
+  },
+  "selutions":{
+    "badge": "Smart solutions for modern businesses 🚀",
+    "title": "We design your company’s future using AI technologies!",
+    "subtitle": "We help you grow your business with innovative tech solutions that boost efficiency and growth.",
+    "cards": [
+      {
+        "title": "Join the world of tech!",
+        "description": "Start your digital journey with services tailored to your needs and industry."
+      },
+      {
+        "title": "System integrations!",
+        "description": "Connect your systems with modern interfaces to simplify management and communication."
+      },
+      {
+        "title": "AI integration!",
+        "description": "We add smart capabilities to your products to improve performance and automation."
+      },
+      {
+        "title": "App development!",
+        "description": "We design and build professional apps that run smoothly across all platforms."
+      },
+      {
+        "title": "Website development!",
+        "description": "We build fast, secure, responsive websites that support your business growth."
+      }
+    ],
+    "btn": "Request your package"
   }
 }

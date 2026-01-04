@@ -16,41 +16,37 @@ const AppSection = () => {
       />
 
       <div className=" rounded-4xl bg-[linear-gradient(101.29deg,#274A90_0%,#000000_122.01%)]">
-        <div className="relative container h-[70vh] text-white flex items-center justify-between">
+        <div className="relative container lg:h-[70vh]  text-white flex items-center justify-between">
           {/* main content */}
-          <div className="py-12 h-full flex flex-col justify-between ">
-            <div className={"space-y-4   "}>
+          <div className="lg:py-12 py-6 h-full flex flex-col justify-between max-lg:gap-6">
+            <div className={"space-y-6"}>
               <h3 className="font-bold max-xl:text-sm">
                 {t("content.subtitle")}
               </h3>
-              <h2 className="xl:text-4xl md:text-3xl text-2xl font-bold">
+              <h2 className="xl:text-5xl md:text-3xl text-2xl font-bold">
                 {t("content.title")}
               </h2>
-              <p className="text-gris font-medium max-xl:text-sm">
+              <p className="text-gris font-medium max-xl:text-sm ">
                 {t("content.description1")}
               </p>
             </div>
             <div className="space-y-4">
-              <h3 className=" xl:text-5xl md:text-4xl text-3xl whitespace-pre-line leading-relaxed">
+              <h3 className=" xl:text-4xl md:text-3xl text-2xl whitespace-pre-line leading-relaxed">
                 {t("content.description1")}
               </h3>
               <p>{t("content.description2")}</p>
             </div>
           </div>
           {/* image */}
-          <div className="relative w-1/2 h-full overflow-hidden max-xl:hidden">
+          <div className=" w-1/2 h-full overflow-hidden max-xl:hidden">
             <Image
-              src="/iPhone.png"
+              src="/phone.png"
               alt="app-section"
-              fill
-              className="w-[400px] absolute object-bottom "
+              width={400}
+              height={400}
+              className="w-[500px]  object-bottom  translate-y-20 "
             />
-            <Image
-              src="/iPhone.png"
-              alt="app-section"
-              fill
-              className="w-[500px] object-bottom absolute translate-x-40 translate-y-40 "
-            />
+
           </div>
           {/* button */}
           <CustomLinkLight

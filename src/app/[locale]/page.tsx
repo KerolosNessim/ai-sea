@@ -8,14 +8,16 @@ import Team from "@/components/team";
 import WhyUsSection from "@/components/whyus-section";
 import ServicesSection from "@/components/services-section";
 import ReviewsSection from "@/components/reviews/reviews-section";
+import Selutions from "@/components/selutions";
 export default  function Home() {
   return (
     <main className='relative bg-[url("/background.svg")]  bg-center bg-repeat space-y-20 '>
       <Hero />
       <Team/>
-      <Partner/>
+      <Selutions/>
+      <Partner />
       <AppSection />
-      {/* <ReviewsSection/> */}
+      <ReviewsSection/>
       <AboutSection />
       <WhyUsSection />
       <ServicesSection />
